@@ -1,2 +1,2 @@
 # bbsuit
-A simple Projekt to backup Databases
+A simple projekt to backup databases
